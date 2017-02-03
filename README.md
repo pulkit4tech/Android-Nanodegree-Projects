@@ -17,3 +17,8 @@ In this project, I redesign an app to follow the Material Design guidelines and 
 
 - [GoUbiquitious](https://github.com/pulkit4tech/GoUbiquitous)
 Extended Sunshine application by developing an Android Watch Face which can display the current weather conditions as watch face along with time information.
+
+- [Capstone Project](https://github.com/pulkit4tech/Capstone-Project)
+Utility Android App which is helpful in finding nearby Privy's. App aims to contribute in clean and better world. App follows Material Design Guidelines with simple and beautiful UX. App provide offline support and data caching making it efficient to use in remote areas with low internet connectivity. App also contains widget to show relevent Privy nearby. \*There is option to request/add new Privy or to give feedback/delete wrongly added Privy.
+
+\* Goes under moderation
